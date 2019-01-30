@@ -8,10 +8,10 @@ This is a .NET Core IoT project on the Raspberry Pi 2/3, coded by C#. HC-SR501 i
 * Male/Female Jumper Wires
 
 ## Sensor Image
-![](https://raw.githubusercontent.com/ZhangGaoxing/dotnet-core-iot-demo/master/src/PIR/02_Image/sensor.jpg)
+![](02_Image/sensor.jpg)
 
 ## Circuit
-![](https://raw.githubusercontent.com/ZhangGaoxing/dotnet-core-iot-demo/master/src/PIR/02_Image/circuit_bb.png)
+![](02_Image/circuit_bb.png)
 
 HC-SR501
 * VCC - 5V
@@ -63,4 +63,4 @@ In English : https://github.com/ZhangGaoxing/windows-iot-demo/tree/master/src/HC
     ```
 
 ## Result
-![](https://raw.githubusercontent.com/ZhangGaoxing/dotnet-core-iot-demo/master/src/PIR/02_Image/res.gif)
+![](02_Image/res.gif)

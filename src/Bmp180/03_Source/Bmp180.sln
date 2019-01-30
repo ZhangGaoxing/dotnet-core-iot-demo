@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmp180", "Bmp180\Bmp180.csproj", "{14CF52A5-8C39-4765-8CD0-A114337D5EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bmp180.Samples", "Bmp180.Samples\Bmp180.Samples.csproj", "{CF433C3E-D13C-4243-A3B9-412D25679E7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CF52A5-8C39-4765-8CD0-A114337D5EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CF52A5-8C39-4765-8CD0-A114337D5EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CF52A5-8C39-4765-8CD0-A114337D5EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CF52A5-8C39-4765-8CD0-A114337D5EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF433C3E-D13C-4243-A3B9-412D25679E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF433C3E-D13C-4243-A3B9-412D25679E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF433C3E-D13C-4243-A3B9-412D25679E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF433C3E-D13C-4243-A3B9-412D25679E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF961992-C8F9-4DFA-ACC9-5998619DFF1D}
+	EndGlobalSection
+EndGlobal
