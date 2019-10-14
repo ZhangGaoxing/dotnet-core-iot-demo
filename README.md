@@ -6,6 +6,14 @@ This repository is licensed under the [__MIT License__](https://github.com/Zhang
 ## Pin Map
 ![](https://raw.githubusercontent.com/ZhangGaoxing/dotnet-core-iot-demo/master/img/RP2_Pinout.png)
 
+## Run the Sample with Docker
+Connect the circuit according to `README.md` under the **samples** folder. Before running the Docker image, you should use the `--device` parameter to mount hardware devices.
+
+```
+docker build -t SAMPLE_NAME -f Dockerfile .
+docker run --rm -it --device=/dev/i2c-1 SAMPLE_NAME
+```
+
 ## Catalogue
 
 ### I2C
